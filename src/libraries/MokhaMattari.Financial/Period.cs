@@ -1,7 +1,7 @@
 using System;
 using System.ComponentModel.DataAnnotations;
 
-namespace MokhaMattari.Math
+namespace MokhaMattari.Financial
 {
     /// <summary>
     /// 年数／月数／日数指定による期間表現です。
